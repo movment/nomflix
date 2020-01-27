@@ -2,12 +2,14 @@
 
 Learning React and ES6 by building a Movie Discovery App.
 
+[nomflix](https://movment.github.io/nomflix/#/)
+
 ## Screens
 
-- [ ] Home
-- [ ] TV Shows
-- [ ] Search
-- [ ] Detail
+- [x] Home
+- [x] TV Shows
+- [x] Search
+- [x] Detail
 
 ## API Verbs
 
